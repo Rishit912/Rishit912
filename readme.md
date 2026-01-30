@@ -25,8 +25,7 @@ const rishit = {
     companies: {
         founder: "Flitcode",
     },
-    philosophy: "Combining technical skills with business logic",
-    funFact: "Built my first Full Stack App in a single weekend! 🚀"
+    philosophy: "Combining technical skills with business logic"
 };
 ```
 
